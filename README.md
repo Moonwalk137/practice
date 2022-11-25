@@ -1,2 +1,3 @@
 # practice
-日常练习代码所写
+日常练习编写代码
+Daily practice writing code
